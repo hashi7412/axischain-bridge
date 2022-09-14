@@ -1,0 +1,33 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 464 468" width="464" height="468">
+	<title>New Project</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 0h464v468h-464z"/>
+		</clipPath>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f1"> <feGaussianBlur stdDeviation="263.1"/> </filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f2"> <feGaussianBlur stdDeviation="188"/> </filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f3"> <feGaussianBlur stdDeviation="150.4"/> </filter>
+	</defs>
+	<style>
+		.s0 { filter: url(#f1);fill: #293cb6 } 
+		.s1 { filter: url(#f2);fill: #293cb6 } 
+		.s2 { filter: url(#f1);fill: #4d85df } 
+		.s3 { filter: url(#f3);fill: #6ca5ff } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m-58.5 320.4c-71.8-43.4-116.6-125.9-100.2-184.5 16.4-58.6 87.7-70.8 159.6-27.3 71.8 43.4 116.6 125.9 100.2 184.4-16.5 58.6-87.8 70.8-159.6 27.4z"/>
+			</g>
+			<g id="Layer">
+				<path id="Layer" class="s1" d="m120.9 344.7c-152.1-125.9-253.8-283.5-227.4-352.4 26.5-68.9 170.8-22.7 323 103.2 152.1 126 253.8 283.6 227.4 352.5-26.4 68.9-170.8 22.7-323-103.3z"/>
+			</g>
+			<g id="Layer">
+				<path id="Layer" class="s2" d="m-80.2 387.4c-241.7-153.2-414.5-354.3-386.5-449.7 28-95.5 246.1-48.8 487.9 104.4 241.7 153.2 414.5 354.3 386.5 449.8-28.1 95.4-246.1 48.8-487.9-104.5z"/>
+			</g>
+			<g id="Layer">
+				<ellipse id="Layer" class="s3" cx="144" cy="234.3" rx="167.4" ry="60.9"/>
+			</g>
+		</g>
+	</g>
+</svg>
